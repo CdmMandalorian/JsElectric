@@ -1,0 +1,122 @@
+div.Typewriter{
+    font-weight: 800;
+}
+
+img.img-fluid.logo{
+    max-width: 180px;
+    float: left;
+    margin-left: 5%;
+}
+
+img.img-fluid.logoS{
+    max-width: 230px;
+    margin-left: 125%;
+
+}
+
+img.card-img-top{
+    width: 200px;
+    height: 200px;
+    align-self: center;
+}
+
+div.card{
+    display: inline-flex;
+    padding: 2%;
+    margin: 2%;
+    padding-left: 5%
+    
+}
+
+div.card-title.h5{
+    text-align: center;
+}
+
+img.d-block.w-100{
+    width: 300px;
+    height: 400px;
+}
+
+p.portfolioCaption{
+    font-size: 11px;
+}
+
+input.input-contactForm{
+    width: 480px;
+}
+
+portfolio-content.container{
+    padding-bottom: 80;
+}
+
+form.contactForm{
+    display: table-caption;
+    padding-left: 25px;
+}
+
+textarea.text-contactForm{
+    height: 200px;
+    width: 480px;
+}
+
+div.accordion-view.accordion# {
+    display: none,
+}
+
+/* --------- */
+/* Services */
+/* --------- */
+.services-section {
+    position: relative !important;
+    padding-top: 15px !important;
+    padding-bottom: 30px !important;
+    background-image: var(--section-background-color) !important;
+}
+
+.services-card {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    height: auto !important;
+}
+
+.services-card-view {
+    box-shadow: 0 4px 5px 3px rgba(30, 130, 29, 0.459) !important;
+    color: #cdd1d5 !important;
+    background-color: transparent !important;
+    opacity: 0.9 !important;
+    transition: all 0.5s ease 0s !important;
+    height: 100% !important;
+}
+
+.services    -card-view:hover {
+    transform: scale(1.02) !important;
+    overflow: hidden !important;
+    box-shadow: 0 4px 4px 5px rgba(40, 149, 37, 0.561) !important;
+}
+
+
+.services-img-top {
+    padding: 20px !important;
+    opacity: 0.8 !important;
+    border-radius: 10px !important;
+}
+
+.services-img {
+    padding: 0px !important;
+    opacity: 0.8 !important;
+    border-radius: 0px !important;
+}
+
+
+.services-heading {
+    color: #cdd1d5 !important;
+    font-size: 2.3em !important;
+    font-weight: 500 !important;
+    padding-top: 10px !important;
+}
+
+/* div.accordion-view.accordion{ */
+    
+/* } */
