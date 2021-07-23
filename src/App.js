@@ -7,8 +7,8 @@ import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
 import Portfolio from './components/Portfolio/Portfolio';
-import Area from "./components/Area/Area";
-import Ser from './components/Ser/Services';
+import AreasServed from "./components/AreasServed/AreasServed";
+import Services from './components/Services/Services';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -24,8 +24,8 @@ function App() {
           <Route path="/J's-Electric/about"  component={About} />
           <Route path="/J's-Electric/contact"  component={Contact} />
           <Route path="/J's-Electric/portfolio"  component={Portfolio} />
-          <Route path="/J's-Electric/area"  component={Area} />
-          <Route path="/J's-Electric/services"  component={Ser} />
+          <Route path="/J's-Electric/areasServed"  component={AreasServed} />
+          <Route path="/J's-Electric/services"  component={Services} />
         </Switch>
         <ScrollToTop />
         <Footer />

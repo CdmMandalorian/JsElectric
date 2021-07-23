@@ -9,7 +9,14 @@ import Portfoliocard from "./PortfolioCard"
 import mainPanel from "../../Assets/Images/panel1.jpg";
 import doubleChan from "../../Assets/Images/doubleChan.jpg"
 import LampPost2 from "../../Assets/Images/LampPost2.jpg"
+import LightingFix1 from "../../Assets/Images/LightingFix1.jpg"
+import LightingFix2 from "../../Assets/Images/LightingFix2.jpg"
+import LightingFix3 from "../../Assets/Images/LightingFix3.jpg"
 import solarP from "../../Assets/Images/solarp.jpg"
+import solarP1 from "../../Assets/Images/solarp1.jpg"
+import solarP2 from "../../Assets/Images/solarp2.jpg"
+import solarP3 from "../../Assets/Images/solarp3.jpg"
+import solarP4 from "../../Assets/Images/solarp4.jpg"
 import panel2 from "../../Assets/Images/panel2.jpg";
 import panel3 from "../../Assets/Images/panel3.jpg";
 import panel4 from "../../Assets/Images/panel4.jpg";
@@ -21,7 +28,9 @@ import panel9 from "../../Assets/Images/panel9.jpg";
 import panel10 from "../../Assets/Images/panel10.jpg";
 import evCharger from "../../Assets/Images/evcharger1.jpg";
 import evCharger2 from "../../Assets/Images/evcharger2.jpg";
-import evCharger3 from "../../Assets/Images/evcharger3.jpeg";
+import evCharger3 from "../../Assets/Images/evcharger3.jpg";
+import evCharger4 from "../../Assets/Images/evcharger4.jpg";
+import evCharger5 from "../../Assets/Images/evcharger5.jpg";
 
 function Portfolio () {
   
@@ -59,9 +68,9 @@ function Portfolio () {
               <Portfoliocard
                   imgPath={doubleChan}
                   imgPathB={LampPost2}
-                  imgPathC={doubleChan}
-                  imgPathD={LampPost2}
-                  imgPathE={doubleChan}
+                  imgPathC={LightingFix1}
+                  imgPathD={LightingFix2}
+                  imgPathE={LightingFix3}
                   title="Lighting Fixtures"
                   description="INSTALL | REPAIR | REPLACE | MAINTENANCE"
                 />
@@ -69,10 +78,10 @@ function Portfolio () {
               <Col>
               <Portfoliocard
                   imgPath={solarP}
-                  imgPathB={solarP}
-                  imgPathC={solarP}
-                  imgPathD={solarP}
-                  imgPathE={solarP}
+                  imgPathB={solarP1}
+                  imgPathC={solarP2}
+                  imgPathD={solarP3}
+                  imgPathE={solarP4}
                   title="Solar Panels"
                   description="INSTALL | REPAIR | REPLACE | MAINTENANCE"
                 />
@@ -81,9 +90,9 @@ function Portfolio () {
               <Portfoliocard
                   imgPath={evCharger}
                   imgPathB={evCharger2}
-                  imgPathC={evCharger3}
-                  imgPathD={evCharger2}
-                  imgPathE={evCharger}
+                  imgPathC={evCharger5}
+                  imgPathD={evCharger3}
+                  imgPathE={evCharger4}
                   title="EV Chargers"
                   description="INSTALL | REPAIR | REPLACE | MAINTENANCE"
                 />

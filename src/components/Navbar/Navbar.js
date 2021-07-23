@@ -28,7 +28,7 @@ function NavBar() {
     expand="md"
     className={navColour ? "absolute" : "navbar"}
     >
-        <Container  style={{ justifyContent: "end", paddingTop: "105px", marginRight: "-30px" }} >
+        <Container  style={{ justifyContent: "end", paddingTop: "105px", marginRight: "-10px" }} >
             <Navbar.Brand href="#home"></Navbar.Brand>
                 <Nav className="ml-auto" defaultActiveKey="#home">
                     <Nav.Item>
@@ -59,11 +59,11 @@ function NavBar() {
                     <Nav.Item>
                         <Nav.Link
                             as={Link}
-                            to="/J's-Electric/area"
+                            to="/J's-Electric/areasServed"
                             onClick={() => updateExpanded(false)}
                             style={{color: "#ece8ef"}}
                         >
-                            <i className="far fa-user"></i> Area
+                            <i className="far fa-user"></i> Areas Served
                         </Nav.Link>
                     </Nav.Item>
                     <Nav.Item>

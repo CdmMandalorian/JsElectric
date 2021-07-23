@@ -1,3 +1,5 @@
+
+
 div.Typewriter{
     font-weight: 800;
 }
@@ -59,8 +61,27 @@ textarea.text-contactForm{
     width: 480px;
 }
 
-div.accordion-view.accordion# {
+div.accordion-view.accordion{
     display: none,
+}
+
+
+/* --------- */
+/* AreaMap */
+/* --------- */
+
+div.mapboxgl-map{
+    width: 950px !important;
+    height: 700px !important;
+}
+div.overlays{
+    width: 950px !important;
+    height: 700px !important;
+}
+
+img.areaMap{
+    width: 1110px;
+    height: 730px;
 }
 
 /* --------- */
@@ -120,3 +141,7 @@ div.accordion-view.accordion# {
 /* div.accordion-view.accordion{ */
     
 /* } */
+
+div#area.area-section.container-fluid{
+    height: 750px;
+}

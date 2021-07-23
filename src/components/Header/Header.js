@@ -8,7 +8,7 @@ function Header () {
           <img src={logo} className="img-fluid logo" alt="brand" 
           />
             <h2 style={{display: "flex", justifyContent: "flex-end",}}>714-472-3801</h2>
-            <h1 style={{display: "flex", justifyContent: "center", paddingRight: "240px"}}>J's ELECTRIC</h1>
+            <h1 style={{display: "flex", justifyContent: "center", paddingRight: "265px"}}>J's ELECTRIC</h1>
             <p  style={ subStyle }>Eminent Precise Electrical Engineering</p>
             
           
