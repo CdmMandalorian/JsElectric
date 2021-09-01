@@ -70,7 +70,7 @@ const footerStyle ={
     position: "relative",
     left: "0",
     bottom: "0",
-    width: "100%",
+    width: "1920px",
     borderTop: "10px solid #cdd1d5",
     display: "flex",
     paddingTop: "2%"

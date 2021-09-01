@@ -82,7 +82,7 @@ function Services (props) {
             <Col md={4} className="service-card" id="5thServ">
             <Servicescard className="LongServiceCard"
                 title="Electrical Panel Upgrades"
-                description="Household electrical appliances and gadgets have exponentially grown in these modern times. The comforts of life have begun to be defined through new technologies as well... "
+                description="Household electrical appliances and gadgets have exponentially grown in the modern times. Functionality and comfort depend on the use of electricity. Operating while damaged can lead to a compromise to household safety. Call for an inspection."
                 imgPath={Columns}
               >
                 
@@ -91,7 +91,7 @@ function Services (props) {
             <Col md={4} className="service-card" id="6thServ">
             <Servicescard className="LongServiceCard"
                 title="Electrical Subpanels"
-                description="Instalation of Sub panels, some home's require an installation of sub panels for either additional circuits located afar from the main meter panel. Sub panels are typically rated between 60 amps  to 125 amps depending on the current usage required.  Additional circuits for car chargers and other appliances would be branced off of this sub panel for these type of installations... "
+                description="Instalation of Sub panels, some home's require an installation of sub panels for either additional circuits located afar from the main meter panel. Sub panels are typically rated between 60 amps  to 125 amps depending on the current usage required.  Additional circuits for car chargers and other appliances would be branced off of this sub panel for these type of installations. "
                 imgPath={GripHorizontal}
               >
               
