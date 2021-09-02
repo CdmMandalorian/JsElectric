@@ -80,8 +80,8 @@ div.overlays{
 }
 
 img.areaMap{
-    width: 1110px;
-    height: 730px;
+    width: 1060px;
+    height: 840px;
 }
 
 /* --------- */
@@ -143,5 +143,14 @@ img.areaMap{
 /* } */
 
 div#area.area-section.container-fluid{
-    height: 750px;
+    height: 864px;
+}
+
+div.area-content.container{
+    width: 1920px;
+    height: 1080px;
+}
+
+div.area-header.col-md-6{
+    margin-left: -135px;
 }

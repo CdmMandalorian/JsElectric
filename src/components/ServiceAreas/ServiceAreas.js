@@ -5,10 +5,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import socalAreaMap from "../../Assets/Images/socalAreaMap.png";
-import Areasservedcard from "./AreasServedCard"
+import ServiceAreasCard from "./ServiceAreasCard"
 
 
-function AreasServed (props) {
+function ServiceArea (props) {
   
   return (
     <section style={{backgroundColor: "#37505c"}}>
@@ -21,14 +21,14 @@ function AreasServed (props) {
       
         <Container  className="area-content">
           <Row >
-            <Col md={4} style={{height: "700px"}} className="area-header">
-              <h1 className="heading" >
-                 Areas Served
+            <Col md={6} className="area-header">
+              <h1 className="heading"style={{marginLeft: "150px"}} >
+                 Service Areas
               </h1>
-              <Areasservedcard></Areasservedcard>
+              <ServiceAreasCard></ServiceAreasCard>
             </Col>
 
-            <Col  md={6} style={{ paddingBottom: 10, paddingTop: 10, width: "950px", height: "700px"}}>
+            <Col  md={4} style={{ paddingBottom: 10, paddingTop: 10, width: "1350px", height: "700px"}}>
               <img src={socalAreaMap} alt="Socal Map" className="areaMap" />
             </Col>
 
@@ -40,4 +40,4 @@ function AreasServed (props) {
   ); 
 } 
 
-export default AreasServed;
+export default ServiceArea;

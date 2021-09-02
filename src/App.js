@@ -7,7 +7,7 @@ import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
 import Portfolio from './components/Portfolio/Portfolio';
-import AreasServed from "./components/AreasServed/AreasServed";
+import ServiceArea from "./components/ServiceAreas/ServiceAreas";
 import Services from './components/Services/Services';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./style.css";
@@ -24,7 +24,7 @@ function App() {
           <Route path="/J's-Electric/about"  component={About} />
           <Route path="/J's-Electric/contact"  component={Contact} />
           <Route path="/J's-Electric/portfolio"  component={Portfolio} />
-          <Route path="/J's-Electric/areasServed"  component={AreasServed} />
+          <Route path="/J's-Electric/serviceArea"  component={ServiceArea} />
           <Route path="/J's-Electric/services"  component={Services} />
         </Switch>
         <ScrollToTop />

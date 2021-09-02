@@ -59,11 +59,11 @@ function NavBar() {
                     <Nav.Item>
                         <Nav.Link
                             as={Link}
-                            to="/J's-Electric/areasServed"
+                            to="/J's-Electric/serviceArea"
                             onClick={() => updateExpanded(false)}
                             style={{color: "#ece8ef"}}
                         >
-                            <i className="far fa-user"></i> Areas Served
+                            <i className="far fa-user"></i> Service Area
                         </Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
