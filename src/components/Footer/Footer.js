@@ -73,7 +73,10 @@ const footerStyle ={
     width: "100%",
     borderTop: "10px solid #cdd1d5",
     display: "flex",
-    paddingTop: "2%"
+    paddingTop: "2%",
+    textShadow: "1px 1px black",
+    fontWeight: "800",
+    fontSize: "1rem"
 }
 
 export default Footer;

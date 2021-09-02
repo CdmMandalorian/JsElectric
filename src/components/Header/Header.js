@@ -29,6 +29,7 @@ const subStyle ={
     color: "#ece8ef",
     display: "flex",
     justifyContent: "center",
+    textShadow: "1px 1px black"
 }
 
 export default Header;

@@ -1,4 +1,6 @@
-
+h1{
+    text-shadow: 1px 1px black;
+}
 
 div.Typewriter{
     font-weight: 800;
@@ -153,4 +155,12 @@ div.area-content.container{
 
 div.area-header.col-md-6{
     margin-left: -135px;
+}
+
+p.portfolioCaption{
+    text-shadow: 1.5px 1.5px 1.5px 1.5px black;
+}
+
+div.carousel-caption{
+    text-shadow: 2px 2px black;
 }
