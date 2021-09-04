@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-// import Particle from "../Particle";
+
 // import SideBar from "../Sidebar/Sidebar";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -12,12 +12,11 @@ function ServiceArea (props) {
   
   return (
     <section style={{backgroundColor: "#37505c"}}>
-
       {/* <SideBar></SideBar> */}
 
       <Container fluid className="area-section" id="area">
 
-      {/* <Particle> */}
+      
       
         <Container  className="area-content">
           <Row >
@@ -34,7 +33,7 @@ function ServiceArea (props) {
 
             </Row>
         </Container>  
-      {/* </Particle> */}
+      
       </Container>
     </section>
   ); 

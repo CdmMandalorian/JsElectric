@@ -2,7 +2,7 @@ import React from "react";
 import {  Container, Row, Col } from "react-bootstrap";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-// import Particle from "../Particle";
+//import Particle from "../Particle";
 import homeLogo from "../../Assets/Images/ps-chandelier.png"
 import Type from "./Type";
 // import SideBar from "../Sidebar/Sidebar";
@@ -14,7 +14,7 @@ function Home() {
 
       {/* <SideBar></SideBar> */}
 
-      <Container fluid className="home-section" id="home">
+      <Container fluid className="home-section" id="home" >
 
       {/* <Particle> */}
       

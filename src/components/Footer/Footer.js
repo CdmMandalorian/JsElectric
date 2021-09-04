@@ -52,7 +52,7 @@ function Footer() {
                    
                     </Col>
                     <Col>
-                        <img style={{height: "205 px", paddingLeft: "380 px" }} src={logo} className="img-fluid logoS " alt="brand" />
+                        <img style={{height: "205 px", paddingLeft: "380 px" }} src={logo} className="img-fluid logoS " alt="brand" />  
                     </Col>
                 </Row>
             </Container>
