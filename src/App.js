@@ -20,7 +20,7 @@ function App() {
       <div>
         <Header></Header><Navbar />
         <Switch>
-          <Route path="/JsElectric/" exact component={Home} />
+          <Route path="/JsElectric.com" exact component={Home} />
           <Route path="/JsElectric/about"  component={About} />
           <Route path="/JsElectric/contact"  component={Contact} />
           <Route path="/JsElectric/portfolio"  component={Portfolio} />
