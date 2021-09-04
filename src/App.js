@@ -20,12 +20,12 @@ function App() {
       <div>
         <Header></Header><Navbar />
         <Switch>
-          <Route path="/J's-Electric/" exact component={Home} />
-          <Route path="/J's-Electric/about"  component={About} />
-          <Route path="/J's-Electric/contact"  component={Contact} />
-          <Route path="/J's-Electric/portfolio"  component={Portfolio} />
-          <Route path="/J's-Electric/serviceArea"  component={ServiceArea} />
-          <Route path="/J's-Electric/services"  component={Services} />
+          <Route path="/JsElectric/" exact component={Home} />
+          <Route path="/JsElectric/about"  component={About} />
+          <Route path="/JsElectric/contact"  component={Contact} />
+          <Route path="/JsElectric/portfolio"  component={Portfolio} />
+          <Route path="/JsElectric/serviceArea"  component={ServiceArea} />
+          <Route path="/JsElectric/services"  component={Services} />
         </Switch>
         <ScrollToTop />
         
