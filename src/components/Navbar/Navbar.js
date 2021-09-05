@@ -32,14 +32,14 @@ function NavBar() {
             <Navbar.Brand href="#home"></Navbar.Brand>
                 <Nav className="ml-auto" defaultActiveKey="#home">
                     <Nav.Item>
-                        <Nav.Link as={Link} to="/J's-Electric/" onClick={() => updateExpanded(false)} style={{color: "#ece8ef"}}>
+                        <Nav.Link as={Link} to="/JsElectric/" onClick={() => updateExpanded(false)} style={{color: "#ece8ef"}}>
                             <i className="fas fa-home"></i> Home
                         </Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
                         <Nav.Link
                             as={Link}
-                            to="/J's-Electric/portfolio"
+                            to="/JsElectric/portfolio"
                             onClick={() => updateExpanded(false)}
                             style={{color: "#ece8ef"}}
                         >
@@ -49,7 +49,7 @@ function NavBar() {
                     <Nav.Item>
                         <Nav.Link
                             as={Link}
-                            to="/J's-Electric/services"
+                            to="/JsElectric/services"
                             onClick={() => updateExpanded(false)}
                             style={{color: "#ece8ef"}}
                         >
@@ -59,7 +59,7 @@ function NavBar() {
                     <Nav.Item>
                         <Nav.Link
                             as={Link}
-                            to="/J's-Electric/serviceArea"
+                            to="/JsElectric/serviceArea"
                             onClick={() => updateExpanded(false)}
                             style={{color: "#ece8ef"}}
                         >
@@ -69,7 +69,7 @@ function NavBar() {
                     <Nav.Item>
                         <Nav.Link
                             as={Link}
-                            to="/J's-Electric/about"
+                            to="/JsElectric/about"
                             onClick={() => updateExpanded(false)}
                             style={{color: "#ece8ef"}}
                         >
@@ -79,7 +79,7 @@ function NavBar() {
                     <Nav.Item>
                         <Nav.Link
                             as={Link}
-                            to="/J's-Electric/contact"
+                            to="/JsElectric/contact"
                             onClick={() => updateExpanded(false)}
                             style={{color: "#ece8ef"}}
                         >
