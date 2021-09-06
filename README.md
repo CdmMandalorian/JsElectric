@@ -5,25 +5,24 @@
   <a href="https://cdmmandalorian.github.io/JsElectric/" target="_blank"></a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./src/Assets/Images/readme-img1.png" />
 </div>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img2.png" />
+  <img alt="Demo" src="./src/Assets/Images/readme-img2.png" />
 </div>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img3.png" />
+  <img alt="Demo" src="./src/Assets/Images/readme-img3.png" />
 </div>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img4.png" />
+  <img alt="Demo" src="./src/Assets/Images/readme-img4.png" />
 </div>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img5.png" />
+  <img alt="Demo" src="./src/Assets/Images/readme-img5.png" />
 </div>
 
 <br/>
 
 <center>
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/CdmMandalorian/Armando-E-Galindo-ReactPortfolio?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/CdmMandalorian/Armando-E-Galindo-ReactPortfolio?color=red&logo=github&style=for-the-badge)
 
