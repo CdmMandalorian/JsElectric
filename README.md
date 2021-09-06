@@ -23,6 +23,7 @@
 <br/>
 
 <center>
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/CdmMandalorian/Armando-E-Galindo-ReactPortfolio?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/CdmMandalorian/Armando-E-Galindo-ReactPortfolio?color=red&logo=github&style=for-the-badge)
 
