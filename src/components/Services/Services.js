@@ -31,8 +31,8 @@ function Services (props) {
         <Container className="services-content" >
           <Row>
             <Col md={6} className="services-header">
-              <img src={servicesImg} alt="services pic" className="img-fluid" style={{paddingLeft: "380px", position: "sticky", marginLeft: "5px", maxWidth:"150%", mixBlendMode: "hard-light", marginTop: "-80px" }}/>
-              <h1 style={{ paddingLeft: 450 }} className="heading">
+              <img src={servicesImg} alt="services pic" className="img-fluidServicesH" style={{paddingLeft: "380px", position: "sticky", marginLeft: "5px", maxWidth:"150%", mixBlendMode: "hard-light", marginTop: "-80px" }}/>
+              <h1 style={{ paddingLeft: 450 }} className="headingServices">
                 <span>SERVICES</span>
                 
               </h1>
@@ -126,7 +126,7 @@ function Services (props) {
               
               </Servicescard> 
             </Col>
-            <Col md={5} style={{ paddingBottom: 80, paddingTop: 10, }}>
+            <Col className="servicesSpace" md={5} style={{ paddingBottom: 80, paddingTop: 10, }}>
               
             </Col>
           </Row>

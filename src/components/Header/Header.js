@@ -8,7 +8,7 @@ function Header () {
           <img src={logo} className="img-fluid logo" alt="brand" 
           />
             <h2 style={{display: "flex", justifyContent: "flex-end",}}>714-472-3801</h2>
-            <h1 style={{display: "flex", justifyContent: "center", paddingRight: "265px"}}>J's ELECTRIC</h1>
+            <h1 className="h1Title"style={{display: "flex", justifyContent: "center", paddingRight: "265px"}}>J's ELECTRIC</h1>
             <p  style={ subStyle }>Eminent Precise Electrical Engineering</p>
             
           
@@ -16,7 +16,7 @@ function Header () {
     )
 }
 
-const headerStyle ={
+let headerStyle ={
     background: "#df8412",
     //borderBottom: '#092532',
     color: "#a8271e",
@@ -25,7 +25,7 @@ const headerStyle ={
     borderBottom: "10px solid #a8271e",
 }
 
-const subStyle ={
+let subStyle ={
     color: "#ece8ef",
     display: "flex",
     justifyContent: "center",

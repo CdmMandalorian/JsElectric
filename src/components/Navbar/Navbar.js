@@ -28,7 +28,7 @@ function NavBar() {
     expand="md"
     className={navColour ? "absolute" : "navbar"}
     >
-        <Container  style={{ justifyContent: "end", paddingTop: "121px", marginRight: "-10px" }} >
+        <Container className="navbarContainer"  style={{ justifyContent: "end", paddingTop: "121px", marginRight: "-10px" }} >
             <Navbar.Brand href="#home"></Navbar.Brand>
                 <Nav className="ml-auto" defaultActiveKey="#home">
                     <Nav.Item>
