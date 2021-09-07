@@ -10,7 +10,7 @@ function ServiceAreasCard(props) {
   
   return (
       <Container className="area-container">
-          <Row>
+          <Row >
               <Col className="servicesAreas">
                   <div class="card">
                       <h5 class="card-header">Inland Empire</h5>

@@ -47,7 +47,7 @@ function Portfolio () {
             <Row>
               <Col md={6} className="portfolio-header">
 
-                <h1 style={{ paddingLeft: 450, paddingTop: 10,  }} className="heading">
+                <h1 style={{ paddingLeft: 450, paddingTop: 10,  }} className="portfolioHeading">
                   <span>PORTFOLIO</span>
                 </h1>
               </Col>
