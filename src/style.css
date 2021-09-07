@@ -193,7 +193,7 @@ div.carousel-caption{
         margin-right: 1.5px!important;
     }
     h1.headingServices{
-        padding-left: 60px!important;
+        padding-left: 44px!important;
     }
     img.img-fluidServicesH{
         padding-left: 350px!important;
@@ -205,6 +205,28 @@ div.carousel-caption{
     }
     h1.headingAreas{
         padding-left: 30px!important;
+        margin-left: 115px!important;
+        padding-top: 33px!important;
+    }
+    input.input-contactForm{
+        width: 244px!important;
+    }
+    textarea.text-contactForm{
+        width: 244px!important;
+        height: 215px!important;
+    }
+    form.contactForm{
+        padding-left: 5px;
+    }
+    div.about-img.col-md-5{
+        padding-top: 0px!important;
+        padding-right: 25px!important;
+    }
+    div.quote-card-view.card{
+        width: 280px!important;
+    }
+    h1.aboutHeading{
+        width: 155px!important;
     }
 }
 /* Small devices (portrait tablets and large phones, 600px and up) */

@@ -29,7 +29,7 @@ function About () {
                 paddingRight: "150px"
               }}
             >
-              <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+              <h1 className="aboutHeading" style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
                 About <strong className="green">ME</strong>
               </h1>
               <Aboutcard />
