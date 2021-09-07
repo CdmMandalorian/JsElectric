@@ -205,7 +205,7 @@ div.carousel-caption{
     }
     h1.headingAreas{
         padding-left: 30px!important;
-        margin-left: 115px!important;
+        margin-left: 0px!important;
         padding-top: 33px!important;
     }
     input.input-contactForm{
@@ -232,7 +232,23 @@ div.carousel-caption{
         padding-left: 35px!important;
     }
     div.carousel-inner{
-        width: 300px;
+        width: 300px!important;
+    }
+    div.area-content.container{
+        max-width: 360px!important;
+    }
+    div.area-header.col-md-6{
+        margin-left: -15px!important;
+    }
+    img.areaMap{
+        max-width: 305px!important;
+        max-height: 305px!important;
+    }
+    div.servicesArea.row{
+        max-height: 1518px!important;
+    }
+    div#area.area-section.container-fluid{
+        height: 1380px!important;
     }
 }
 /* Small devices (portrait tablets and large phones, 600px and up) */

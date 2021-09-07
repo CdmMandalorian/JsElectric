@@ -19,7 +19,7 @@ function ServiceArea (props) {
       
       
         <Container  className="area-content">
-          <Row >
+          <Row className="servicesArea">
             <Col md={6} className="area-header">
               <h1 className="headingAreas"style={{marginLeft: "150px"}} >
                  Service Areas
