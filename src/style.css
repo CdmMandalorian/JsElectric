@@ -172,6 +172,124 @@ div.carousel-caption{
 @media only screen and (max-width: 600px) {
     img.img-fluid.logo{
         max-width: 100px!important;
+        margin-left: -30px!important;
+    }
+    img.img-fluid{
+        padding-left: 40px!important;
+    }
+    h1.h1Title{
+        padding-right: 0px!important;
+    }
+    div.navbarContainer.container{
+        padding-top: 130px!important;
+        padding-left: 0px!important;
+        margin-right: 0px!important;
+    }
+    img.img-fluid.logoS{
+        margin-left: 0!important;
+        padding-right: 30px!important;
+    }
+    div.ml-auto.navbar-nav{
+        display: contents!important;
+    }
+    a.nav-link{
+        padding-right: 1px!important;
+        padding-left: 1px!important;
+        font-size: 12px!important;
+        margin-right: 1.5px!important;
+    }
+    h1.headingServices{
+        padding-left: 66px!important;
+    }
+    img.img-fluidServicesH{
+        padding-left: 350px!important;
+        margin-left: -247px!important;
+        margin-top: -31px!important;
+        max-width: 160%!important;
+    }
+    div.servicesSpace.col-md-5{
+        padding-bottom: 0px!important;
+    }
+    h1.headingAreas{
+        padding-left: 31px!important;
+        margin-left: 0px!important;
+        padding-top: 10px!important;
+    }
+    input.input-contactForm{
+        width: 245px!important;
+    }
+    textarea.text-contactForm{
+        width: 245px!important;
+        height: 215px!important;
+    }
+    form.contactForm{
+        padding-left: 5px;
+    }
+    div.about-img.col-md-5{
+        padding-top: 0px!important;
+        padding-right: 25px!important;
+    }
+    div.quote-card-view.card{
+        width: 285px!important;
+    }
+    h1.aboutHeading{
+        width: 155px!important;
+        padding-bottom: 5px!important;
+        margin-left: 60px!important;
+    }
+    h1.portfolioHeading{
+        padding-left: 40px!important;
+    }
+    div.carousel-inner{
+        width: 300px!important;
+    }
+    div.area-content.container{
+        max-width: 330px!important;
+    }
+    div.area-header.col-md-6{
+        margin-left: -15px!important;
+    }
+    img.areaMap{
+        max-width: 330px!important;
+        max-height: 333px!important;
+        margin-left: -26px!important;
+        padding-bottom: 100px!important;
+    }
+    div.servicesArea.row{
+        max-height: 1518px!important;
+    }
+    div#area.area-section.container-fluid{
+        height: 1250px!important;
+    }
+    p.pHeading{
+        padding-right: 0px!important;
+    }
+
+    div.carousel.slide{
+        width: 300px!important;
+        margin-left: -10px!important;
+    }
+    div#services.services-section.container-fluid{
+        margin-right: 0px!important;
+        margin-left: -5px!important;
+    }
+    div.aboutContent.col-md-7{
+        padding-top: 10px!important;
+        padding-right: 0!important;
+        margin-right: 30px!important;
+    }
+    h1.contactHeading{
+        max-width: 400px!important;
+    }
+    div.contact.row{
+        max-width: 435px!important;
+    }
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    img.img-fluid.logo{
+        max-width: 115px!important;
+        margin-left: 0!important;
     }
     h1.h1Title{
         padding-right: 160px!important;
@@ -251,22 +369,24 @@ div.carousel-caption{
         height: 1380px!important;
     }
 }
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
-
-}
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-
+    img.img-fluid.logoS{
+        margin-left: 0!important;
+    }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
-
+    img.img-fluid.logoS{
+        margin-left: 0!important;
+    }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-
+    img.img-fluid.logoS{
+        margin-left: 0!important;
+    }
 }

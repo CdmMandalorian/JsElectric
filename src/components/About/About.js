@@ -20,7 +20,7 @@ function About () {
 
         <Container className="about-content">
           <Row style={{ justifyContent: "center", padding: "10px" }}>
-            <Col
+            <Col className="aboutContent"
               md={7}
               style={{
                 justifyContent: "center",

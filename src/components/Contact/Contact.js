@@ -20,7 +20,7 @@ function Contact () {
                 {/* <Particle> */}
 
                 <Container className="contact-content">
-                    <Row style={{ justifyContent: "center", padding: "10px" }}>
+                    <Row className="contact" style={{ justifyContent: "center", padding: "10px" }}>
                         <Col
                             md={7}
                             style={{
@@ -31,7 +31,7 @@ function Contact () {
                                 maxHeight: "480px"
                             }}
                         >
-                            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+                            <h1 className="contactHeading" style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
                                 Contact <strong className="green">ME</strong>
                             </h1>
                             <Contactform />
