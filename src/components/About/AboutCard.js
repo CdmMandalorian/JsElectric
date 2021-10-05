@@ -13,10 +13,9 @@ function AboutCard() {
                     
             <br></br>
             <span className="green"> Riverside, California  </span>
-            <br />Electrical and Solar Expert
-            <br />
-            <br />
-             
+            <br />Independent License
+            <br />Electrical Contractor
+            <br />Solar Expert
           </p>
           <ul>
             <li className="about-activity">

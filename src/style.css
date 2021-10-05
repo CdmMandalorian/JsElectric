@@ -89,7 +89,7 @@ div.accordion-view.accordion{
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #df8412;
+    background: #1f1e1d;
     border-radius: 12px;
   }
 
