@@ -13,7 +13,7 @@ function AboutCard() {
                     
             <br></br>
             <span className="green"> Riverside, California  </span>
-            <br />Independent License
+            <br />License Independent
             <br />Electrical Contractor
             <br />Solar Expert
           </p>
