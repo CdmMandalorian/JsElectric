@@ -33,7 +33,7 @@ function NavBar() {
                 <Nav className="ml-auto" defaultActiveKey="#home">
                     <Nav.Item>
                         <Nav.Link as={Link} to="/JsElectric/" onClick={() => updateExpanded(false)} style={{color: "#ece8ef"}}>
-                            <i className="fas fa-home"></i> Home
+                             Home
                         </Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
@@ -43,7 +43,7 @@ function NavBar() {
                             onClick={() => updateExpanded(false)}
                             style={{color: "#ece8ef"}}
                         >
-                            <i className="far fa-user"></i> Portfolio
+                             Portfolio
                         </Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
@@ -53,7 +53,7 @@ function NavBar() {
                             onClick={() => updateExpanded(false)}
                             style={{color: "#ece8ef"}}
                         >
-                            <i className="far fa-user"></i> Services
+                             Services
                         </Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
@@ -63,7 +63,7 @@ function NavBar() {
                             onClick={() => updateExpanded(false)}
                             style={{color: "#ece8ef"}}
                         >
-                            <i className="far fa-user"></i> Service Area
+                             Service Area
                         </Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
@@ -73,7 +73,7 @@ function NavBar() {
                             onClick={() => updateExpanded(false)}
                             style={{color: "#ece8ef"}}
                         >
-                            <i className="far fa-user"></i> About
+                             About
                         </Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
@@ -83,7 +83,7 @@ function NavBar() {
                             onClick={() => updateExpanded(false)}
                             style={{color: "#ece8ef"}}
                         >
-                            <i className="far fa-user"></i> Contact
+                             Contact
                         </Nav.Link>
                     </Nav.Item>
                 </Nav>
