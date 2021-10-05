@@ -69,6 +69,33 @@ div.accordion-view.accordion{
 
 
 /* --------- */
+/*Scrollbar   */
+/* --------- */
+
+::-webkit-scrollbar {
+    width: 7px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #303b35;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #4f5e55;
+    border-radius: 12px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #df8412;
+    border-radius: 12px;
+  }
+
+
+
+/* --------- */
 /* AreaMap */
 /* --------- */
 
@@ -165,6 +192,14 @@ div.carousel-caption{
     text-shadow: 2px 2px black;
 }
 
+
+#tsparticles {
+  position: fixed !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  width: 100%;
+  height: 100%;
+}
 
 /* Media Query */
 
@@ -307,17 +342,45 @@ div.carousel-caption{
         margin-top: 65px!important;
     }
     div.navbarContainer.container{
-        font-size: 16px!important;
-        margin-right: -13px!important;
+        font-size: .9rem!important;
+        margin-right: -24px!important;
     }
     a.nav-link{
-        padding-right: .3rem!important;
-        padding-left: .2rem!important;
+        padding-right: .1rem!important;
+        padding-left: .1rem!important;
     }
     h1.h1Title{
-        padding-right: 116px!important;
+        padding-right: 100px!important;
     }
-}
+    h2.h2phoneHeading{
+        margin-right: 0px!important;
+    }
+   
+    img.img-fluid{
+        padding-left: 0px!important;
+        margin-left: -10px!important;
+    }
+    p.pHeading{
+        margin-left: 21px!important;
+    }
+    h1.portfolioHeading{
+        padding-left: 236px!important;
+    }
+    div.carousel-inner{
+        width: 320px!important;
+    }
+    div.carousel.slide{
+        width: 320px!important;
+        margin-left: -10px!important;
+    }
+    h1.headingServices{
+        padding-left: 265px!important;
+    }
+    img.img-fluidServicesH{
+        margin-top: -36px!important;
+        margin-left: -86px!important;
+    }
+}  
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
@@ -328,6 +391,7 @@ div.carousel-caption{
         padding-right: 115px!important;
     }
     div.navbarContainer.container{
+        font-size: 1.2rem!important;
         margin-right: -13px!important;
     }
     h2.h2phoneHeading{
@@ -395,7 +459,7 @@ div.carousel-caption{
 
 
 
-
+/* 
 /* 
 img.img-fluid.logoS{
     margin-left: 0!important;
@@ -461,4 +525,5 @@ div.servicesArea.row{
 }
 div#area.area-section.container-fluid{
     height: 1380px!important;
-} */
+}
+/* */
