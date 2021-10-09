@@ -1,4 +1,8 @@
-# J's Electric ⚡
+#
+
+# AEG Codes ✨
+
+<h1  align="center"> J's Electric ⚡
 
 # Description
 ## React Web Application for an Independent License Electrical Contractor
@@ -23,12 +27,14 @@
 
 <center>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/CdmMandalorian/Armando-E-Galindo-ReactPortfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/CdmMandalorian/Armando-E-Galindo-ReactPortfolio?color=red&logo=github&style=for-the-badge)
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br />
+
+![GitHub Repo stars](https://img.shields.io/github/stars/CdmMandalorian/Armando-E-Galindo-ReactPortfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/CdmMandalorian/Armando-E-Galindo-ReactPortfolio?color=red&logo=github&style=for-the-badge)
+
 
 </center>
 
@@ -41,7 +47,7 @@
 
 <br />
 
-## Live Site View:
+# Live Site View:
 
 <br />
 
@@ -49,7 +55,7 @@ Visit J's Electric [here](https://cdmmandalorian.github.io/JsElectric/ "Link to 
        
 <br />
 
-## Built With
+# Built With
 
 This project was built using these technologies.
 
@@ -62,7 +68,8 @@ This project was built using these technologies.
 - Typescript
 - VSCode
 - FontAwesome
-## Features
+
+# Features
 
 **📖 Multi-Page Layout**
 
@@ -98,8 +105,6 @@ Give a ⭐ if you like this website!
 
 <br />
 
-#
-
-# AEG Codes ✨
+# Portfolio
 
 * Visit [here](https://cdmmandalorian.github.io/Armando-E-Galindo-ReactPortfolio/ "Link to my Portfolio") | My Personal React Portfolio which features some of my github projects as well as my resume and technical skills.*
