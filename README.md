@@ -34,8 +34,6 @@
 [![forthebadge](./src/Assets/Images/mobile-compatibility.svg)](https://forthebadge.com) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/CdmMandalorian/Armando-E-Galindo-ReactPortfolio?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/CdmMandalorian/Armando-E-Galindo-ReactPortfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </center>
